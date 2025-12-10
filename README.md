@@ -8,4 +8,8 @@
 * 交易系统有了新的平仓功能
 * 工作区比之前更加整洁
 
+### ↓ 下载
+注意：
+* 此应用还是处于功能不太期权的状态，功能不齐全
 
+[下载预览版](https://github.com/BB-Software-Corporation/TraderTRner/releases)
