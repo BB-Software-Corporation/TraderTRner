@@ -12,4 +12,4 @@
 注意：
 * 此应用还是处于功能不太期权的状态，功能不齐全
 
-[下载预览版](https://github.com/BB-Software-Corporation/TraderTRner/releases)
+[下载预览版]([https://github.com/BB-Software-Corporation/TraderTRner/releases](https://github.com/BB-Software-Corporation/TraderTRner/releases/tag/v1.0.0-beta.1))
